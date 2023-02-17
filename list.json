@@ -1,0 +1,18 @@
+[
+    {
+      "chainId": 421613,
+      "address": "0x626584A406fdFC56bDFD57DC9be25adEE1f1B2d1",
+      "name": "Hiro",
+      "symbol": "HIRO",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    },
+    {
+      "chainId": 421613,
+      "address": "0xC033378c6eEa969C001CE9438973ca4d6460999a",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    }
+]
