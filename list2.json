@@ -9,7 +9,7 @@
   "timestamp": "2023-02-10T01:00:53.819Z",
   "tokens": [
     {
-      "chainId": 421613,
+      "chainId": 42161,
       "address": "0x626584A406fdFC56bDFD57DC9be25adEE1f1B2d1",
       "name": "Hiro",
       "symbol": "HIRO",
@@ -17,7 +17,7 @@
       "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
     },
     {
-      "chainId": 421613,
+      "chainId": 42161,
       "address": "0xC033378c6eEa969C001CE9438973ca4d6460999a",
       "name": "WETH",
       "symbol": "WETH",
