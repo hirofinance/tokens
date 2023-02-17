@@ -1,5 +1,5 @@
 {
-  "name": "Optimism",
+  "name": "Aribitrum",
   "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
   "keywords": [
     "scaling",
@@ -14,10 +14,7 @@
       "name": "Hiro",
       "symbol": "HIRO",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
-      "extensions": {
-        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
-      }
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
     },
     {
       "chainId": 421613,
@@ -25,10 +22,7 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
-      "extensions": {
-        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
-      }
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
     }
   ],
   "version": {
