@@ -1,0 +1,40 @@
+{
+  "name": "Optimism",
+  "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
+  "keywords": [
+    "scaling",
+    "layer2",
+    "infrastructure"
+  ],
+  "timestamp": "2023-02-10T01:00:53.819Z",
+  "tokens": [
+    {
+      "chainId": 421613,
+      "address": "0x626584A406fdFC56bDFD57DC9be25adEE1f1B2d1",
+      "name": "Hiro",
+      "symbol": "HIRO",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+      }
+    },
+    {
+      "chainId": 421613,
+      "address": "0xC033378c6eEa969C001CE9438973ca4d6460999a",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+      }
+    },
+
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
