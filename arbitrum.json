@@ -1,0 +1,33 @@
+{
+  "name": "Aribitrum",
+  "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
+  "keywords": [
+    "scaling",
+    "layer2",
+    "infrastructure"
+  ],
+  "timestamp": "2023-02-10T01:00:53.819Z",
+  "tokens": [
+    {
+      "chainId": 421613,
+      "address": "0x24c460A83F4F4E3407D206adcB96434a85d04118",
+      "name": "Hiro",
+      "symbol": "HIRO",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    },
+    {
+      "chainId": 421613,
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
