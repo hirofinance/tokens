@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Wrapped FTM",
+    "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+    "symbol": "WFTM",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://cre8r.vip/wp-content/uploads/2023/02/images.png"
+  },
+  {
+    "chainId": 250,
+    "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
+  },
+  {
+    "address": "0x794304d52280059C44d40ba0419541FE33B64d4f",
+    "chainId": 250,
+    "decimals": 18,
+    "logoURI": "",
+    "name": "EXPD",
+    "symbol": "EXPD",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
+  }
+]
