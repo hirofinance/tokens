@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "chainId": 280,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2518/large/weth.png",
+    "name": "WETH Token",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0x0faF6df7054946141266420b43783387A78d82A9",
+    "chainId": 280,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+    "name": "USDC Token",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x024f3AF0358df5b649313Aa3367981146A71D563",
+    "chainId": 280,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hirofinance/tokens/main/logo-icon.png",
+    "name": "EXPD Token",
+    "symbol": "EXPD"
+  }
+]
