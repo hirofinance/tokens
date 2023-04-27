@@ -1,0 +1,49 @@
+{
+  "name": "HIRO Token List",
+  "logoURI": "https://github.com/equilibre-finance.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "volatilecoin": {
+      "name": "Volatilecoin",
+      "description": "Tokens that are NOT fixed to an external asset, e.g. the US dollar"
+    }
+  },
+  "timestamp": "2022-10-04T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1442,
+      "name": "WETH",
+      "symbol": "WETH",
+      "address": "0x44ef425C2Ff1d8F6681604D1e1eb10784290a670",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/assets/VARA.png",
+      "liquid_staked_address": "",
+      "tags": [
+        "volatilecoin"
+      ]
+    },
+    {
+      "chainId": 1442,
+      "name": "YUI",
+      "symbol": "YUI",
+      "address": "0xdD3A79CBEaBE9631477E229E93b9F3Fead534e77",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/equilibre-finance/token-images/main/assets/wKAVA.png",
+      "liquid_staked_address": "",
+      "tags": ["volatilecoin"]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 7,
+    "patch": 0
+  }
+}
